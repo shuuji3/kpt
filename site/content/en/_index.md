@@ -40,7 +40,7 @@ transform and validate configuration.
 {{< /blocks/section >}}
 
 {{< blocks/section >}}
-{{% blocks/feature icon="fab fa-envelope" title="Install" url="installation" %}}
+{{% blocks/feature icon="fa fa-download" title="Install" url="installation" %}}
 Install via gcloud, homebrew, binaries or source.
 {{% /blocks/feature %}}
 
